@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\routes",
+    "\\views",
+    "\\views\\partials",
+    "\\views\\posts"
+  ],
+  "SelectedNode": "\\views\\posts\\index.handlebars",
+  "PreviewInSolutionExplorer": false
+}
